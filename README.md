@@ -1,1 +1,3 @@
-# AnalisadorDeTexto
+# Analisador De Texto
+
+Com Python
